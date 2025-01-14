@@ -1,5 +1,5 @@
 # Easy-Paste-Extension
-# Bypass Paste Restrictions Chrome Extension
+## Bypass Paste Restrictions Chrome Extension
 
 This Chrome extension is designed to help users bypass copy-paste restrictions on websites that prevent copying and pasting text. With this extension, users can enable pasting functionality even on sites where it is restricted.
 
