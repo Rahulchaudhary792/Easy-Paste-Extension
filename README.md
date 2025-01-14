@@ -51,4 +51,4 @@ Feel free to fork this project and submit pull requests. Contributions are welco
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/copypasteextension.git
+   git clone https://github.com/Rahulchaudhary792/Easy-Paste-Extension.git
